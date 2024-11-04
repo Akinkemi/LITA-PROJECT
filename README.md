@@ -52,9 +52,9 @@ It can be concluded that attrition is higher among male staff in research and de
 RECOMENDATION
 -The management should look into reviewing the salary scheme after certain period in the company -Terms and conditions should be made to screen which employee can embark on researches outside the country. -The month of probation for newly employed staff should be closely monitored to ensure satisfactory performance. 
 
-![image](https://github.com/user-attachments/assets/7b676a1f-41ba-465e-8abc-a5c41f0c2552)
-
-
+```
+=UNIT PRICE*QUANTITY
+```
 
 Heading 1	Heading 2	Heading 3
 Table 1	Table 2	Table 3
