@@ -41,8 +41,7 @@ Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count)
 Conditional columns were added to filter down some data so as to get a better visualization, one of those is the creation of conditional column to convert the Job Satisfaction column to Job Satisfaction Rating using figures 1,2,3,4 to represent each satisfactory level.
 
 DATA VISUALIZATION
-![WhatsApp Image 2024-11-05 at 00 33 28_058b3c5d] 
-![WhatsApp Image 2024-11-05 at 00 33 28_fc1f3b02]
+![Uploading WhatsApp Image 2024-11-05 at 00.33.28_21bc1d80.jpg…]()
 
 
 
