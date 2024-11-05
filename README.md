@@ -42,7 +42,7 @@ Conditional columns were added to filter down some data so as to get a better vi
 
 DATA VISUALIZATION
 ![WhatsApp Image 2024-11-05 at 00 33 28_058b3c5d] 
-![WhatsApp Image 2024-11-05 at 00 33 28_fc1f3b02](https://github.com/user-attachments/assets/7fc7eecb-02d5-4449-8c05-20ff40f1adf2)
+![WhatsApp Image 2024-11-05 at 00 33 28_fc1f3b02]
 
 
 
