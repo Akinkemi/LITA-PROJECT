@@ -41,9 +41,11 @@ Attrition Rate = sum(HR Data attrition count)/sum(HR Data employee count)
 Conditional columns were added to filter down some data so as to get a better visualization, one of those is the creation of conditional column to convert the Job Satisfaction column to Job Satisfaction Rating using figures 1,2,3,4 to represent each satisfactory level.
 
 DATA VISUALIZATION
-![WhatsApp Image 2024-11-05 at 00 33 28_058b3c5d] ![WhatsApp Image 2024-11-05 at 00 33 28_fc1f3b02](https://github.com/user-attachments/assets/7fc7eecb-02d5-4449-8c05-20ff40f1adf2)
-(https://github.com/user-attachments/assets/3ddb822d-5310-4b87-b1b8-37c41ddfa8c5)
-Screenshot 2024-10-25 144321 Screenshot 2024-10-24 175432 Screenshot 2024-10-24 175826 Screenshot 2024-10-24 175843 Screenshot 2024-10-24 175859 Screenshot 2024-10-25 141238 Screenshot 2024-10-25 141238 Screenshot 2024-10-25 141318 Screenshot 2024-10-25 141333
+![WhatsApp Image 2024-11-05 at 00 33 28_058b3c5d] 
+![WhatsApp Image 2024-11-05 at 00 33 28_fc1f3b02](https://github.com/user-attachments/assets/7fc7eecb-02d5-4449-8c05-20ff40f1adf2)
+
+
+
 
 DEDUCTION FROM THE ANALYSIS
 -From the analysis, it was observed that the rate of attrition was higher among the male employees, also majority of these male employees were in Research and Development Department and their average age is 37. -The Total Number of male employees = 882 -Total number of attrition = 150 -Total number of current employee = 732 -The average age is 37. -The Job satisfactory rating gave an insight to the fact that some of the employee underwent attrition or were releaved of their jobs due to low performance, 46 staff among the 237 staff on attrition had a satifactory rating of Very Dissatisfied, 66 staff a rating of Dissatisfied.
