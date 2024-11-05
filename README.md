@@ -56,6 +56,7 @@ DATA VISUALIZATION
 ![Uploading WhatsApp Image 2024-11-05 at 20.17.00_77731c49.jpg…]()
 
 
+![Uploading WhatsApp Image 2024-11-05 at 19.20.52_50c9de64.jpg…]()
 
 
 
